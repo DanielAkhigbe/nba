@@ -1,6 +1,6 @@
 # nba
 Data science and ML project on predicting the NBA season and playoffs data
-# Inroduction
+# Introduction
 The objective of this proect is to predict the 2022-2023 regular season of the NBA, and the outcome of its post season games. 
 
 Historical data of games statistics since the 1980 season were obtained. However, due to the several changes in the teams, franchises, and NBA system, the data used to develop the ML models began from the 2015 season; when the NBA teams became more consistent. The NBA teams https://www.nba.com/teams are organized in conferences as such: Atlantic, Central, and South East teams are in the Eastern conference while Northwest, Pacific, and Southwest teams are in the Western Conference.
