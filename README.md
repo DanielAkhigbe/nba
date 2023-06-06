@@ -1,5 +1,7 @@
 # nba
-Data science and ML project on predicting the NBA season and playoffs data
+Data science and ML project on predicting the NBA season and playoffs data.
+# Developer
+### Daniel Akhigbe
 # Introduction
 The objective of this proect is to predict the 2022-2023 regular season of the NBA, and the outcome of its post season games. 
 
@@ -11,7 +13,7 @@ Every regular season, there are 30 teams divided into two conferences: Western a
 
 Finally, a virtual team was created to participate in the 2023 season. The team referred to as 'The Avengers', was given a position on the 2023 season league table; the trained model was used to predict if the team would make it to the playoffs or not.
 # Data Source
-*Elo ratings
+Elo ratings
 
 The Complete History Of The NBA From https://data.fivethirtyeight.com/
 
